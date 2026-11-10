@@ -1,5 +1,4 @@
-# Fixing Firefox's "Unavailable Due to Local Restrictions" Error in Iran
-
+# Fixing Firefox's Built-in VPN in Iran
 ## The problem
 
 Out of nowhere, Firefox displayed a message saying that the browser or its services were unavailable due to local restrictions in my region.
