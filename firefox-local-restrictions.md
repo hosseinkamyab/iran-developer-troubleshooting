@@ -11,10 +11,8 @@ I spent quite some time trying to figure out what was wrong.
 Surprisingly, the solution was ridiculously simple:
 
 1. Connect to a different VPN (one that works).
-2. Open Firefox while this VPN is connected.
-3. Wait for Firefox to start working normally.
-4. You can now turn on your usual VPN, if needed.
-5. Disconnect the VPN running on your entire PC.
+2. turn on Firefox built-in VPN.
+3. You can now turn off the other VPN.
 
 In my case, Firefox continued working even after I disconnected the system-wide VPN. This allowed me to use Firefox without keeping my PC connected to a VPN.
 
@@ -22,7 +20,7 @@ In my case, Firefox continued working even after I disconnected the system-wide 
 
 For some reason, it took me a long time to try this simple solution.
 
-Even funnier, a while later, Firefox stopped working again, and I had to repeat exactly the same process!
+Even funnier, a while later, Firefox VPN stopped working again, and I had to repeat exactly the same process!
 
 ## Environment
 
