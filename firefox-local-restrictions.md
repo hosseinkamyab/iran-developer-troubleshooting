@@ -4,7 +4,7 @@
 
 Out of nowhere, Firefox displayed a message saying that the browser or its services were unavailable due to local restrictions in my region.
 
-I was using a VPN, but Firefox still refused to work. I spent quite some time trying to figure out what was wrong.
+I spent quite some time trying to figure out what was wrong.
 
 ## The solution
 
